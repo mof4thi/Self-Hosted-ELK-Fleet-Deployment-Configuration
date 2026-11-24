@@ -1,11 +1,5 @@
----
-title: "Building a Self-Hosted SIEM with the Elastic Stack (ELK + Fleet)"
-description: "End-to-end deployment of Elasticsearch, Kibana, Fleet Server and Elastic Agent with full TLS, an Apache reverse proxy, custom log pipelines, uptime monitoring, alerting by email, Ansible roles, and a troubleshooting log."
-author: "Mohammed Fathi"
-tags: [elk, elasticsearch, kibana, fleet, siem, blue-team, monitoring, ansible, tls]
----
-
 # Building a Self-Hosted SIEM with the Elastic Stack (ELK + Fleet)
+author: "Mohammed Fathi"
 
 > A hands-on guide to deploying a single-node Elastic Stack as an open-source alternative to Splunk for centralized logging, metrics, uptime monitoring and security alerting, all secured with TLS end to end.
 
