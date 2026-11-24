@@ -1,5 +1,5 @@
 # Building a Self-Hosted SIEM with the Elastic Stack (ELK + Fleet)
-author: "Mohammed Fathi"
+author: Mohammed Fathi
 
 > A hands-on guide to deploying a single-node Elastic Stack as an open-source alternative to Splunk for centralized logging, metrics, uptime monitoring and security alerting, all secured with TLS end to end.
 
